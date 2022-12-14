@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6da1935ad7742e04686bae9b165cc8d1, type: 3}
+  m_Name: Diagnost
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "O paciente procurou o servi\xE7o psicol\xF3gico onde apresentou sintomas de
+    paranoia generalizada, humor deprimido e mudan\xE7as bruscas de express\xE3o"
+  - "Al\xE9m disso preju\xEDzo nas fun\xE7\xF5es executivas principalmente em saber
+    lidar com relacionamentos interpessoais."
+  - "Visto o caso vejo a necessidade de interna\xE7\xE3o imediata do paciente, caso
+    n\xE3o haja uma interven\xE7\xE3o as chances de um colapso psic\xF3tico s\xE3o
+    altas"
+  - 'Assinado: Dr Silveira'

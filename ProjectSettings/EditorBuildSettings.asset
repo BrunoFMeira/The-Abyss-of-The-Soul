@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenu.unity
+    guid: 0f309beeb047b9e44a1038fec829f1b6
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/StartScene.unity
+    guid: 2538865a9d60fa7499b368a711088484
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/DarkScene.unity
+    guid: 43ff1be4d72c20943b23e78fd1cb0883
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Principal.unity
+    guid: 51707836566b8c1489e5881164c12b75
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Tarot.unity
+    guid: 48744e2b2ff1f834b9957ad5e5c64da8
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Angry.unity
+    guid: b21d8c66cf3a01e49aced231921fe2da
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Children.unity
+    guid: b4462c5c0c9f44746a743e3d2426c6a1
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Diva.unity
+    guid: 3719301ce328b864d9386b6b635f5fd5
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Mirrors.unity
+    guid: 940a3a5adbc4d314e848deffb4738489
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Medicine.unity
+    guid: 6127dcec481e35548bc949cc810c5887
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/Floor1_Friends.unity
+    guid: 6a386d1369154f644b6ed9fa6e3191f5
+  - enabled: 1
+    path: Assets/Game/Scenes/Floor1/FinalImprovisado.unity
+    guid: 609b8cdb88939144ab4211d8f1b70559
+  m_configObjects: {}

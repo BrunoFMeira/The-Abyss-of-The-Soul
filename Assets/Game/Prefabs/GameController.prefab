@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7751005631704162019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7751005631704162017}
+  - component: {fileID: 7751005631704162018}
+  - component: {fileID: 7751005631704162016}
+  - component: {fileID: 9075585494482884520}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7751005631704162017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751005631704162019}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1027496, y: -1.595728, z: 476.36703}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7751005631704162018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751005631704162019}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6bfe65e05e5d04429a64976f06eaad5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ResolutionCamp: {fileID: 0}
+  VSyncCamp: {fileID: 0}
+  AntiAliasingCamp: {fileID: 0}
+  MusicVolCamp: {fileID: 0}
+  FxVolCamp: {fileID: 0}
+--- !u!114 &7751005631704162016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751005631704162019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca189031e0470864eab305130570e62f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseCanvas: {fileID: 0}
+  inventoryCanvas: {fileID: 0}
+--- !u!114 &9075585494482884520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751005631704162019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b941ccd173ce44582a5c11b9ae430a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itens:
+  - {fileID: 4443176362667085557, guid: b39e2a2a5ab84a149b0954c20fff830c, type: 3}
+  - {fileID: 403328596546942888, guid: f0b96f4899f5df34794ab4564a12037b, type: 3}
+  - {fileID: 8877783208618812686, guid: 31f1a1dd0d887d34a992a5d4aece978c, type: 3}
+  - {fileID: 4624048272275523320, guid: 58d3a8586dc0f894585b37c2918847b5, type: 3}
+  - {fileID: 7154113366370099874, guid: 14ed273227c36fd4c9ab6310e15b7a9e, type: 3}
+  - {fileID: 8060300985726071723, guid: f133119d66d62ca4faf0d41604ad9e2a, type: 3}
+  - {fileID: 2301384529093769256, guid: 40a6eb90afb565245846bb84019dd283, type: 3}

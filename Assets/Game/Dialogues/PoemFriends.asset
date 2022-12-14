@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6da1935ad7742e04686bae9b165cc8d1, type: 3}
+  m_Name: PoemFriends
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Um \xFAltimo toque\r.\nUm \xFAltimo olhar\r.\nA \xFAltima chance\r.\nDesta vez
+    \xE9 um adeus\r"
+  - "Onde est\xE3o os que estavam aqui?\r\ne \xE0s altas risadas?\r\nos amigos\u2026\r"
+  - 'Cade?
+
+    Onde estou?
+
+    para onde irei?
+
+'
+  - "A solid\xE3o bate na porta\r.\nela j\xE1 \xE9 de casa\r..."
